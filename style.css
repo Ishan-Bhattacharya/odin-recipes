@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: rgb(250, 250, 250);
+}
+
+#Hometitle,
+h1 {
+    font-weight: 800;
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: rgba(255,0,0,0.8);
+    text-align: center;
+    height: 80px;
+}
+
+h1 {
+    background-color: rgb(19, 10, 5);
+    font-size: 80px;
+}
+
+img {
+    height:auto;
+    width: 500px;
+    margin-left: 15cm;
+    float:left;
+}
+
+.Lasagna {
+    margin-top: auto;
+    border: 5px solid #e90f0f;
+}
+
+.hide {
+    display: none;
+}
+
+.Lasagna:hover {
+    filter: brightness(50%);
+}
+.Recipe1 {
+    margin-top: 160px;
+}
+.Gohome {
+    text-align: center;
+}
+
+
+#parah {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    display:inline-block;
+    vertical-align: bottom;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container .list {
+    color: black;
+    font-size: 15px;
+}
+
+.list {
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.list:hover {
+    color: white;
+    background-color: black;
+}
